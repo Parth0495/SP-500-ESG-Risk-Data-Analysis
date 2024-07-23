@@ -1,0 +1,1 @@
+This project focuses on analyzing Environmental, Social, and Governance (ESG) risk scores across various companies, aiming to uncover insights into company performance within different sectors and industries. 
